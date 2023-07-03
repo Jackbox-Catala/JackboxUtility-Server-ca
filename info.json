@@ -1,28 +1,33 @@
 {
-    "id":"jackbox-fr",
-    "name":"Jackbox France",
-    "description":"Le serveur d'installation de patch pour la communauté française !",
-    "image":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/assets/news_images/logo.png",
+    "id":"jackbox-ca",
+    "name":"Jackbox en Català",
+    "description":"El servidor de la comunitat de Jackbox en català!",
+    "image":"https://raw.githubusercontent.com/PauGuri2002/JackboxUtility-Server-ca/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/api/v2",
-            "assets":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/assets"
+            "api":"https://raw.githubusercontent.com/PauGuri2002/JackboxUtility-Server-ca/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/PauGuri2002/JackboxUtility-Server-ca/main/assets"
         }
     ],
-    "controller":"laboxdejack.fr",
-    "languages":["fr"],
-    "links":[
-    	{
+    "controller":"jackbox.cat",
+    "languages":["ca"],
+    "links": [
+        {
             "icon":"globe",
-            "url":"http://blog.laboxdejack.fr/",
-            "text":"Blog"
+            "url":"https://traduccions.jackbox.cat/",
+            "text":"Lloc web"
         },
         {
             "icon":"discord",
-            "url":"https://discord.gg/XhwPfUrCEx",
+            "url":"https://discord.com/invite/aePD2smtRV",
             "text":"Discord"
+        },
+        {
+            "icon":"twitch",
+            "url":"https://www.twitch.tv/jackboxcat",
+            "text":"Twitch"
         }
-    ]
+     ]
 }

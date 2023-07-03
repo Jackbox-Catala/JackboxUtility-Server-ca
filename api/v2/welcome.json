@@ -1,21 +1,18 @@
 {
-    "news":[
+    "news": [
         {
-            "id":"2023-02-21 19:02:14",
-            "title":"Jackbox Utility",
-            "smallDescription":"Bienvenue sur la nouvelle version de Jackbox Utility !",
-            "content":"# Voici le nouveau Jackbox Utility\n\nDans cette nouvelle version, vous allez pouvoir lancer tous vos jeux préférés en un seul et même endroit !\n\nEnvie d'être encore plus rapide ? Vos jeux se lancent en mode **Fast Launch** ce qui permet de passer l'intro du pack et de choisir automatiquement le jeu voulu. De quoi aller encore plus vite dans l'action !",
-            "image":"news_images/logo.png"
+            "id": "2023-02-22 19:02:14",
+            "title": "Jackbox Utility",
+            "smallDescription": "Et donem la benvinguda a la nova versió de Jackbox Utility!",
+            "content": "# Aquesta és la nova versió de Jackbox Utility!\n\nEn aquesta nova versió, podràs executar tots els teus jocs preferits des d'un sol lloc!\n\nNo vols perdre ni un segon? Els jocs s'inicien amb un **Llançament ràpid**, que permet ometre la introducció del Pack i entrar automàticament al joc que vulguis. Pim pam!",
+            "image": "news_images/jackboxcatala.png"
         },
         {
-            "id":"2023-02-18 14:29:14",
-            "title":"Rejoignez-nous !",
-            "smallDescription":"Jouons ensemble et recevez de l'aide sur les outils de Jackbox France !",
-            "content":"# Besoin d'aide ? Envie de jouer ?\n\nAlors rejoignez le serveur discord pour poser vos questions et jouer avec nous !\n\n<https://discord.gg/XhwPfUrCEx>",
-            "image":"news_images/discord.png",
-            "link":"https://discord.gg/XhwPfUrCEx",
-            "shadow":false
+            "id": "2023-02-18 14:29:14",
+            "title": "El nostre Discord!",
+            "smallDescription": "Uneix-te al nostre servidor de Discord si vols jugar partides o simplement xatejar amb altres jugadors!",
+            "content": "# Necessites ajuda? Vols jugar?\n\nUneix-te al servidor de discord per preguntar qualsevol cosa i jugar amb nosaltres!\n\n<https://discord.com/invite/k8MASuepRw>",
+            "image": "news_images/discord.png"
         }
     ]
-
 }

@@ -254,7 +254,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/ydkj2015.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -295,7 +295,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/drawful.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -335,7 +335,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/wordspud.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -375,7 +375,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/lieswatter.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -417,7 +417,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/fibbagexl.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 }
@@ -586,7 +586,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp2/fibbage2.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -627,7 +627,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp2/earwax.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -670,7 +670,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp2/bidiots.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -713,7 +713,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp2/quiplashxl.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -756,7 +756,7 @@
                     "path": "games/BombInterns",
                     "loader": {
                         "path": "loaders/tjpp2/bombcorp.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 }
@@ -1052,7 +1052,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp3/quiplash2.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -1095,7 +1095,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp3/triviamurderparty.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -1138,7 +1138,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp3/guesspionage.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -1183,7 +1183,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp3/fakinit.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -1227,7 +1227,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp3/teeko.zip",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                     },
                     "patchs": []
                 }

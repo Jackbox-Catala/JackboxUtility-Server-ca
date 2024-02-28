@@ -898,14 +898,14 @@
                     ]
                 },
                 {
-                    "id": "jpp3_es_mac",
+                    "id": "jpp3_es_mac_steam",
                     "name": "Traducción al Español Latino [Mac]",
                     "small_description": "Pack 100% traducido.\n¡Engáñame! cuenta con doblaje latino.",
                     "description": "",
                     "patch_path": "https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/releases/latest/download/JPP3-ES-MAC-STEAM.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/Main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/Main[Mac][Steam]/config.jet",
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": [
@@ -1371,7 +1371,7 @@
                     ]
                 },
                 {
-                    "id": "jpp4_es_mac",
+                    "id": "jpp4_es_mac_steam",
                     "name": "Traducción al Español Latino [Mac]",
                     "small_description": "Pack 100% traducido.\nSobrevive al Internet, Monstruo Busca Monstruo y Garabato Cívico cuentan con doblaje latino.",
                     "description": "",
@@ -1884,7 +1884,7 @@
                     ]
                 },
                 {
-                    "id": "jpp5_es_mac",
+                    "id": "jpp5_es_mac_steam",
                     "name": "Traducción al Español Latino [Mac]",
                     "small_description": "Pack 100% traducido.\nZeeple Dome y Patentes Dementes cuentan con doblaje latino.",
                     "description": "",

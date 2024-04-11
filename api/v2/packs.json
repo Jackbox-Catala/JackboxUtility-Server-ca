@@ -255,7 +255,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/ydkj2015.zip",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                     },
                     "patchs": []
                 },
@@ -297,7 +297,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/drawful.zip",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                     },
                     "patchs": []
                 },
@@ -367,7 +367,7 @@
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Cert o fals?",
                         "small_description": "Cert o fals?",
-                        "description": "Les llagostes pixen pel cap? Japó va votar els fideus instantanis com el millor invent del s.XX? O creus que ens ho hem inventat?\n\nAVÍS: A l'obrir aquest joc amb l'Utility, t'obrirà directament el menú del Party Pack, ometent la introducció. Això és intencionat, ja que el joc es congela si s'intenta obrir com els altres jocs.",
+                        "description": "Les llagostes pixen pel cap? Japó va votar els fideus instantanis com el millor invent del s.XX? O creus que ens ho hem inventat?",
                         "images": [
                             "game_images/LieSwatter/lieswatter.mp4",
                             "game_images/LieSwatter/lieswatter_1.webp",
@@ -379,7 +379,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/lieswatter.zip",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                     },
                     "patchs": []
                 },
@@ -422,7 +422,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpp1/fibbagexl.zip",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                     },
                     "patchs": []
                 }

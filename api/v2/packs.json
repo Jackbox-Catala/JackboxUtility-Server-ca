@@ -4501,11 +4501,11 @@
             },
             "loader": {
                 "path": "loaders/tjpstarter/default.zip",
-                "version": "1.0.1"
+                "version": "1.0.2"
             },
             "configuration": {
                 "version_origin": "game_file",
-                "version_file": "config.jet",
+                "version_file": "jbg.config.jet",
                 "version_property": "buildVersion"
             },
             "store_links": {
@@ -4521,7 +4521,7 @@
                     "patch_path": "https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Starter-Spanish/releases/latest/download/JPS-ES.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Starter-Spanish/main/Main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Starter-Spanish/main/Main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -4614,7 +4614,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpstarter/quiplash3.zip",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                     },
                     "patchs": []
                 },
@@ -4659,7 +4659,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpstarter/teeko.zip",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                     },
                     "patchs": []
                 },
@@ -4704,7 +4704,7 @@
                     },
                     "loader": {
                         "path": "loaders/tjpstarter/triviamurderparty2.zip",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                     },
                     "patchs": []
                 }

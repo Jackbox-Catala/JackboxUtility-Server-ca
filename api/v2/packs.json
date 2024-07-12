@@ -189,10 +189,10 @@
                     "name": "Traducció al Català",
                     "small_description": "Word Spud traduït al català.",
                     "description": "",
-                    "patch_path": "https://github.com/PauGuri2002/JPP1-CA/releases/latest/download/JPP1-CA.zip",
+                    "patch_path": "https://github.com/Jackbox-Catala/JPP1-CA/releases/latest/download/JPP1-CA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/PauGuri2002/JPP1-CA/master/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-Catala/JPP1-CA/master/config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -994,10 +994,10 @@
                     "name": "Traducció al Català",
                     "small_description": "Tee K.O. traduït al català.",
                     "description": "",
-                    "patch_path": "https://github.com/PauGuri2002/JPP3-CA/releases/latest/download/JPP3-CA.zip",
+                    "patch_path": "https://github.com/Jackbox-Catala/JPP3-CA/releases/latest/download/JPP3-CA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/PauGuri2002/JPP3-CA/master/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-Catala/JPP3-CA/master/config.jet",
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": [
@@ -1467,10 +1467,10 @@
                     "name": "Traducció al Català",
                     "small_description": "Fibbage: Enough About You, Survive the Internet, Monster Seeking Monster i Civic Doodle es troben traduïts al català.",
                     "description": "",
-                    "patch_path": "https://github.com/PauGuri2002/JPP4-CA/releases/latest/download/JPP4-CA.zip",
+                    "patch_path": "https://github.com/Jackbox-Catala/JPP4-CA/releases/latest/download/JPP4-CA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/PauGuri2002/JPP4-CA/master/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-Catala/JPP4-CA/master/config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -1980,10 +1980,10 @@
                     "name": "Traducció al Català",
                     "small_description": "Patently Stupid traduït al català.",
                     "description": "",
-                    "patch_path": "https://github.com/PauGuri2002/JPP5-CA/releases/latest/download/JPP5-CA.zip",
+                    "patch_path": "https://github.com/Jackbox-Catala/JPP5-CA/releases/latest/download/JPP5-CA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/PauGuri2002/JPP5-CA/master/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-Catala/JPP5-CA/master/config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -2354,10 +2354,10 @@
                     "name": "Traducció al Català",
                     "small_description": "Joke Boat traduït al català.",
                     "description": "",
-                    "patch_path": "https://github.com/PauGuri2002/JPP6-CA/releases/latest/download/JPP6-CA.zip",
+                    "patch_path": "https://github.com/Jackbox-Catala/JPP6-CA/releases/latest/download/JPP6-CA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/PauGuri2002/JPP6-CA/master/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-Catala/JPP6-CA/master/config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -2733,10 +2733,10 @@
                     "name": "Traducció al Català",
                     "small_description": "Joke Boat traduït al català.",
                     "description": "",
-                    "patch_path": "https://github.com/PauGuri2002/JPP6-CA/releases/latest/download/JPP6-CA.zip",
+                    "patch_path": "https://github.com/Jackbox-Catala/JPP6-CA/releases/latest/download/JPP6-CA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/PauGuri2002/JPP6-CA/master/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-Catala/JPP6-CA/master/config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -3114,10 +3114,10 @@
                     "name": "Traducció al Català",
                     "small_description": "Champ'd Up i The Devils & the Details traduïts al català.",
                     "description": "",
-                    "patch_path": "https://github.com/PauGuri2002/JPP7-CA/releases/latest/download/JPP7-CA.zip",
+                    "patch_path": "https://github.com/Jackbox-Catala/JPP7-CA/releases/latest/download/JPP7-CA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/PauGuri2002/JPP7-CA/master/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-Catala/JPP7-CA/master/config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -3528,10 +3528,10 @@
                     "name": "Traducció al Català",
                     "small_description": "The Poll Mine traduït al català.",
                     "description": "",
-                    "patch_path": "https://github.com/PauGuri2002/JPP8-CA/releases/latest/download/JPP8-CA.zip",
+                    "patch_path": "https://github.com/Jackbox-Catala/JPP8-CA/releases/latest/download/JPP8-CA.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/PauGuri2002/JPP8-CA/master/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-Catala/JPP8-CA/master/config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [

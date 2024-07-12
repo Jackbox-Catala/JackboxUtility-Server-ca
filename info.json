@@ -2,13 +2,13 @@
     "id":"jackbox-ca",
     "name":"Jackbox en Català",
     "description":"El servidor de la comunitat de Jackbox en català!",
-    "image":"https://raw.githubusercontent.com/PauGuri2002/JackboxUtility-Server-ca/main/assets/news_images/logo.png",
+    "image":"https://raw.githubusercontent.com/Jackbox-Catala/JackboxUtility-Server-ca/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/PauGuri2002/JackboxUtility-Server-ca/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/PauGuri2002/JackboxUtility-Server-ca/main/assets"
+            "api":"https://raw.githubusercontent.com/Jackbox-Catala/JackboxUtility-Server-ca/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/Jackbox-Catala/JackboxUtility-Server-ca/main/assets"
         }
     ],
     "controller":"jackbox.cat",

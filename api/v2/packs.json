@@ -4641,6 +4641,11 @@
                         "path": "loaders/standalones/standalones.zip",
                         "version": "1.0.0"
                     },
+                    "launch_with_loaders":{
+                        "steam":true,
+                        "epic_games":true,
+                        "native":true
+                    },
                     "patchs": []
                 }
             ],
@@ -4748,6 +4753,11 @@
                         "path": "loaders/standalones/standalones.zip",
                         "version": "1.0.0"
                     },
+                    "launch_with_loaders":{
+                        "steam":true,
+                        "epic_games":true,
+                        "native":true
+                    },
                     "patchs": []
                 }
             ],
@@ -4852,6 +4862,11 @@
                         "tags": [
                             "writing"
                         ]
+                    },
+                    "launch_with_loaders":{
+                        "steam":true,
+                        "epic_games":true,
+                        "native":true
                     },
                     "loader": {
                         "path": "loaders/standalones/standalones.zip",
@@ -4962,6 +4977,11 @@
                             "drawing",
                             "writing"
                         ]
+                    },
+                    "launch_with_loaders":{
+                        "steam":true,
+                        "epic_games":true,
+                        "native":true
                     },
                     "loader": {
                         "path": "loaders/df2/drawful2.zip",

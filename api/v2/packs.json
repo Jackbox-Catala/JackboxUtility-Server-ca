@@ -231,7 +231,6 @@
                             "min": 1,
                             "max": 4
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -281,7 +280,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -329,7 +327,6 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "10 - 15 minuts",
                         "playtime": {
                             "min": 10,
                             "max": 15
@@ -376,7 +373,6 @@
                             "min": 1,
                             "max": 100
                         },
-                        "length": "10 - 15 minuts",
                         "playtime": {
                             "min": 10,
                             "max": 15
@@ -423,7 +419,6 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -597,7 +592,6 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -648,7 +642,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "15 - 25 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 25
@@ -696,7 +689,6 @@
                             "min": 3,
                             "max": 6
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -746,7 +738,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -794,7 +785,6 @@
                             "min": 1,
                             "max": 4
                         },
-                        "length": "5 - 10 minuts",
                         "playtime": {
                             "min": 5,
                             "max": 10
@@ -1008,7 +998,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -1058,7 +1047,6 @@
                             "min": 1,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -1108,7 +1096,6 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "10 - 15 minuts",
                         "playtime": {
                             "min": 10,
                             "max": 15
@@ -1158,7 +1145,6 @@
                             "min": 3,
                             "max": 6
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -1210,7 +1196,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -1460,7 +1445,6 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -1511,7 +1495,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -1561,7 +1544,6 @@
                             "min": 3,
                             "max": 7
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -1612,7 +1594,6 @@
                             "min": 3,
                             "max": 16
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -1662,7 +1643,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -1866,7 +1846,6 @@
                             "min": 1,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -1916,7 +1895,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -1967,7 +1945,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -2017,7 +1994,6 @@
                             "min": 1,
                             "max": 6
                         },
-                        "length": "10 - 15 minuts",
                         "playtime": {
                             "min": 10,
                             "max": 15
@@ -2065,7 +2041,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -2272,7 +2247,6 @@
                             "min": 1,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -2323,7 +2297,6 @@
                             "min": 3,
                             "max": 6
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -2374,7 +2347,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -2426,7 +2398,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "10 - 15 minuts",
                         "playtime": {
                             "min": 10,
                             "max": 15
@@ -2476,7 +2447,6 @@
                             "min": 4,
                             "max": 10
                         },
-                        "length": "15 - 25 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 25
@@ -2729,7 +2699,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -2779,7 +2748,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -2831,7 +2799,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -2882,7 +2849,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -2934,7 +2900,6 @@
                             "min": 2,
                             "max": 6
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -3141,7 +3106,6 @@
                             "min": 3,
                             "max": 10
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -3192,7 +3156,6 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "15 - 25 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 25
@@ -3242,7 +3205,6 @@
                             "min": 3,
                             "max": 10
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -3292,7 +3254,6 @@
                             "min": 2,
                             "max": 10
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -3344,7 +3305,6 @@
                             "min": 4,
                             "max": 8
                         },
-                        "length": "20 - 30 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 30
@@ -3524,7 +3484,6 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -3575,7 +3534,6 @@
                             "min": 4,
                             "max": 9
                         },
-                        "length": "25 - 30 minuts",
                         "playtime": {
                             "min": 25,
                             "max": 30
@@ -3625,7 +3583,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -3677,7 +3634,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -3728,7 +3684,6 @@
                             "min": 1,
                             "max": 10
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -3916,7 +3871,6 @@
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán decidir qué se mostrará en pantalla. También pueden echar jugadores de la partida. Si es necesario, se recomienda activar la opción \"Filtro de lenguaje vulgar\".",
                         "subtitles": true,
-                        "length": "20 - 25 minutos",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Batalla de camisetas",
@@ -3967,7 +3921,6 @@
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán echar jugadores de la partida si es necesario.",
                         "subtitles": true,
-                        "length": "15 - 20 minutos",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Tiempo para jugar",
@@ -4017,7 +3970,6 @@
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán decidir qué se mostrará en pantalla. También pueden echar jugadores de la partida. Si es necesario, se recomienda activar la opción \"Filtro de lenguaje vulgar\".",
                         "subtitles": true,
-                        "length": "15 - 20 minutos",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Mezcolanza de palabras",
@@ -4068,7 +4020,6 @@
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán echar jugadores de la partida si es necesario.",
                         "subtitles": true,
-                        "length": "5 - 10 minutos",
                         "type": "COOP",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Música desenfrenada",
@@ -4117,7 +4068,6 @@
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán decidir qué se mostrará en pantalla. También pueden echar jugadores de la partida. Si es necesario, se recomienda activar la opción \"Filtro de lenguaje vulgar\".",
                         "subtitles": true,
-                        "length": "20 - 30 minutos",
                         "type": "COOP",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Hipnosis en equipo",
@@ -4253,7 +4203,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -4303,7 +4252,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -4354,7 +4302,6 @@
                             "min": 1,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -4451,7 +4398,6 @@
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán decidir qué se mostrará en pantalla. Si es necesario, se recomienda activar la opción \"Filtro de lenguaje vulgar\".",
                         "subtitles": true,
-                        "length": "15 - 20 minutos",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Atrapa al farsante asqueroso",
@@ -4501,7 +4447,6 @@
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán decidir qué se mostrará en pantalla. Si es necesario, se recomienda activar la opción \"Filtro de lenguaje vulgar\".",
                         "subtitles": true,
-                        "length": "15 - 20 minutos",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "¡Dibuja asquersoamente con estilo!",
@@ -4552,7 +4497,6 @@
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán decidir qué se mostrará en pantalla. Si es necesario, se recomienda activar la opción \"Filtro de lenguaje vulgar\".",
                         "subtitles": true,
-                        "length": "15 - 25 minutos",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "¡Responde preguntas atroces!",
@@ -4650,7 +4594,6 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -4761,7 +4704,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -4875,7 +4817,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -4989,7 +4930,6 @@
                             "min": 3,
                             "max": 8
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -5098,7 +5038,6 @@
                             "min": 3,
                             "max": 6
                         },
-                        "length": "20 - 25 minuts",
                         "playtime": {
                             "min": 20,
                             "max": 25
@@ -5197,7 +5136,6 @@
                             "min": 1,
                             "max": 6
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20
@@ -5296,7 +5234,6 @@
                             "min": 1,
                             "max": 6
                         },
-                        "length": "15 - 20 minuts",
                         "playtime": {
                             "min": 15,
                             "max": 20

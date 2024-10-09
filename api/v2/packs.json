@@ -6137,6 +6137,8 @@
                 "version_file": "jbg.config.jet",
                 "version_property": "buildVersion"
             },
+            "supported_platforms": ["windows","linux","mac"],
+            "supported_launchers": ["steam","native","epic"],
             "resource_location": {
                 "mac": "Drawful 2.app/Contents/Resources/macos"
             },
@@ -6156,6 +6158,8 @@
                         "version_file": "https://raw.githubusercontent.com/AkiraArtuhaxis/Drawful-2-Latin-American-Spanish/main/Main[Spain]/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers": ["steam","native","epic"],
                     "components": [
                         {
                             "id": "drawful_2_spain_patch",
@@ -6185,6 +6189,8 @@
                         "version_file": "https://raw.githubusercontent.com/AkiraArtuhaxis/Drawful-2-Latin-American-Spanish/main/Main[Mac][EGS][Spain]/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["mac"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "drawful_2_spain_patch",

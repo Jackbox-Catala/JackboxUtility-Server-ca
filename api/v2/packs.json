@@ -49,12 +49,17 @@
                 "jpp6_es",
                 "jpp6_ca",
                 "jpp7_es",
+                "jpp7_es_ms",
                 "jpp7_ca",
+                "jpp7_ca_ms",
                 "jpp8_es",
                 "jpp8_ca",
                 "jpp9_es",
+                "jpp9_es_ms",
                 "jpp10_es",
+                "jpp10_es_ms",
                 "jpstarter_es",
+                "jpstarter_es_ms",
                 "fbxl_es",
                 "quip_es_spain",
                 "quip2int_es_spain",
@@ -75,6 +80,7 @@
                 "jpp5_ca",
                 "jpp6_ca",
                 "jpp7_ca",
+                "jpp7_ca_ms",
                 "jpp8_ca"
             ]
         }

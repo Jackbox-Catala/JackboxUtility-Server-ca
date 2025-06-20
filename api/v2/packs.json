@@ -133,7 +133,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "drawful_patch",
@@ -209,7 +209,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "drawful_patch",
@@ -593,7 +593,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "fibbage2_patch",
@@ -684,7 +684,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "fibbage2_patch",
@@ -1151,7 +1151,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "quiplash2_patch",
@@ -1242,7 +1242,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "quiplash2_patch",
@@ -1653,7 +1653,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "fibbage3_patch",
@@ -1744,7 +1744,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "fibbage3_patch",
@@ -2199,7 +2199,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "ydkj_fullstream_patch",
@@ -2290,7 +2290,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "ydkj_fullstream_patch",
@@ -2791,7 +2791,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "trivia_murder_party_2_patch",
@@ -2882,7 +2882,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "trivia_murder_party_2_patch",
@@ -3297,7 +3297,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "quiplash3_patch",
@@ -3388,7 +3388,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "quiplash3_patch",
@@ -3616,7 +3616,7 @@
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components":[
                 {
                         "id":"cursedpoints_patch",
@@ -3648,7 +3648,7 @@
                 "version_property":"buildVersion"
             },
             "supported_platforms": ["windows","linux"],
-            "supported_launchers": ["epic"],
+            "supported_launchers": ["epic","native"],
             "components":[
         {
                 "id":"cursedpoints_patch",
@@ -4467,7 +4467,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "drawful_animate_patch",
@@ -4558,7 +4558,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "drawful_animate_patch",
@@ -4973,7 +4973,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam","native"],
+                    "supported_launchers": ["steam"],
                     "components": [
                         {
                             "id": "fibbage4_patch",
@@ -5064,7 +5064,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic"],
+                    "supported_launchers": ["epic","native"],
                     "components": [
                         {
                             "id": "fibbage4_patch",
@@ -7186,8 +7186,8 @@
                         "family_friendly": "NOT_FAMILY_FRIENDLY",
                         "audience": true,
                         "audience_description": "El público puede votar por qué jugador les satisface más y así otorgar puntos.",
-                        "stream_friendly": "MIDLY_PLAYABLE",
-                        "stream_friendly_description": "Al ser un juego de presentaciones, se recomienda que los jugadores puedan al menos escucharse entre ellos.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "Este juego funciona perfectamente en streams en el \"Modo rápido\". En el \"Modo debate\", al ser un modo de presentaciones, se recomienda que los jugadores puedan al menos escucharse entre ellos.",
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán decidir qué se mostrará en pantalla. Si es necesario, se recomienda activar la opción \"Filtro de lenguaje vulgar\".",
                         "subtitles": true,
@@ -7369,8 +7369,8 @@
                         "family_friendly": "NOT_FAMILY_FRIENDLY",
                         "audience": true,
                         "audience_description": "El público puede votar por qué jugador les satisface más y así otorgar puntos.",
-                        "stream_friendly": "MIDLY_PLAYABLE",
-                        "stream_friendly_description": "Al ser un juego de presentaciones, se recomienda que los jugadores puedan al menos escucharse entre ellos.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "Este juego funciona perfectamente en streams en el \"Modo rápido\". En el \"Modo debate\", al ser un modo de presentaciones, se recomienda que los jugadores puedan al menos escucharse entre ellos.",
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Con la opción \"Moderación\" activada, los moderadores que ingresen a mod.jackbox.lol podrán decidir qué se mostrará en pantalla. Si es necesario, se recomienda activar la opción \"Filtro de lenguaje vulgar\".",
                         "subtitles": true,

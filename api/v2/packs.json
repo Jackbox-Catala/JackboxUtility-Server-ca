@@ -7583,7 +7583,7 @@
         {
             "id": "fbxl",
             "name": "Fibbage XL",
-            "description": "¡Que gane el mejor mentiroso!",
+            "description": "Any de llançament: 2016",
             "launchers_id": {
                 "steam": "448080"
             },
@@ -7692,7 +7692,7 @@
         {
             "id": "quip",
             "name": "Quiplash",
-            "description": "Sé el más divertido",
+            "description": "Any de llançament: 2015",
             "launchers_id": {
                 "steam": "351510"
             },
@@ -7836,7 +7836,7 @@
         {
             "id": "quip2int",
             "name": "Quiplash 2 InterLASHional",
-            "description": "Sé el más divertido",
+            "description": "Any de llançament: 2020",
             "launchers_id": {
                 "steam": "1111940",
                 "epic": "e912e6d9595b4ff3a7257bcdc82b6671"
@@ -7951,7 +7951,7 @@
         {
             "id": "df2",
             "name": "Drawful 2",
-            "description": "¡Dibuja mal con estilo!",
+            "description": "Any de llançament: 2016",
             "launchers_id": {
                 "steam": "442070",
                 "epic": "Daisy"
@@ -8100,7 +8100,7 @@
         {
             "id": "uyw",
             "name": "Use Your Words",
-            "description": "Fiesta de palabras",
+            "description": "Any de llançament: 2017",
             "launchers_id": {
                 "steam": "521350"
             },
@@ -8231,7 +8231,7 @@
         {
             "id": "wtd",
             "name": "What The Dub?!",
-            "description": "Doblajes de locura",
+            "description": "Any de llançament: 2021",
             "launchers_id": {
                 "steam": "1495860"
             },
@@ -8362,7 +8362,7 @@
         {
             "id": "rttg",
             "name": "RiffTrax: The Game",
-            "description": "¡Hora de los riffs!",
+            "description": "Any de llançament: 2022",
             "launchers_id": {
                 "steam": "1707870"
             },

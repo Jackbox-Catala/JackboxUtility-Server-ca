@@ -133,7 +133,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "drawful_patch",
@@ -209,7 +209,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "drawful_patch",
@@ -593,7 +593,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "fibbage2_patch",
@@ -684,7 +684,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "fibbage2_patch",
@@ -1151,7 +1151,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "quiplash2_patch",
@@ -1242,7 +1242,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "quiplash2_patch",
@@ -1653,7 +1653,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "fibbage3_patch",
@@ -1744,7 +1744,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "fibbage3_patch",
@@ -2199,7 +2199,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "ydkj_fullstream_patch",
@@ -2290,7 +2290,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "ydkj_fullstream_patch",
@@ -2791,7 +2791,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "trivia_murder_party_2_patch",
@@ -2882,7 +2882,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "trivia_murder_party_2_patch",
@@ -3297,7 +3297,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "quiplash3_patch",
@@ -3388,7 +3388,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "quiplash3_patch",
@@ -3616,7 +3616,7 @@
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components":[
                 {
                         "id":"cursedpoints_patch",
@@ -3648,7 +3648,7 @@
                 "version_property":"buildVersion"
             },
             "supported_platforms": ["windows","linux"],
-            "supported_launchers": ["epic","native"],
+            "supported_launchers": ["epic"],
             "components":[
         {
                 "id":"cursedpoints_patch",
@@ -4467,7 +4467,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "drawful_animate_patch",
@@ -4558,7 +4558,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "drawful_animate_patch",
@@ -4973,7 +4973,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["steam"],
+                    "supported_launchers": ["steam","native"],
                     "components": [
                         {
                             "id": "fibbage4_patch",
@@ -5064,7 +5064,7 @@
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": ["windows","linux","mac"],
-                    "supported_launchers": ["epic","native"],
+                    "supported_launchers": ["epic"],
                     "components": [
                         {
                             "id": "fibbage4_patch",

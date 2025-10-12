@@ -38,23 +38,35 @@
             "smallDescription": "Tradueix els jocs al català!\nEls jocs que no tenen traducció catalana agafaran la traducció espanyola de l'equip de Jackbox en Español.",
             "patchs": [
                 "jpp1_es",
+                "jpp1_es_egs",
                 "jpp1_ca",
                 "jpp2_es",
+                "jpp2_es_egs",
+                "jpp2_es_mac_egs",
                 "jpp3_es",
+                "jpp3_es_egs",
                 "jpp3_ca",
                 "jpp4_es",
+                "jpp4_es_egs",
                 "jpp4_ca",
                 "jpp5_es",
+                "jpp5_es_egs",
+                "jpp5_es_mac_egs",
                 "jpp5_ca",
                 "jpp6_es",
+                "jpp6_es_egs",
                 "jpp6_ca",
                 "jpp7_es",
+                "jpp7_es_egs",
+                "jpp7_es_mac_egs",
                 "jpp7_es_ms",
                 "jpp7_ca",
                 "jpp7_ca_ms",
                 "jpp8_es",
+                "jpp8_es_egs",
                 "jpp8_ca",
                 "jpp9_es",
+                "jpp9_es_egs",
                 "jpp9_es_ms",
                 "jpp10_es",
                 "jpp10_es_ms",
@@ -198,7 +210,7 @@
                     ]
                 },
                 {
-                    "id": "jpp1_es",
+                    "id": "jpp1_es_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Este Pack posee 4 de 5 juegos traducidos.\nYou Don't Know Jack 2015 no está traducido.\nDrawful cuenta con doblaje latino.",
                     "description": "",
@@ -673,7 +685,7 @@
                     ]
                 },
                 {
-                    "id": "jpp2_es",
+                    "id": "jpp2_es_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\nEarwax cuenta con doblaje latino.",
                     "description": "",
@@ -764,7 +776,7 @@
                     ]
                 },
                 {
-                    "id": "jpp2_es",
+                    "id": "jpp2_es_mac_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\nEarwax cuenta con doblaje latino.",
                     "description": "",
@@ -1231,7 +1243,7 @@
                     ]
                 },
                 {
-                    "id": "jpp3_es",
+                    "id": "jpp3_es_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\n¡Engáñame! cuenta con doblaje latino.",
                     "description": "",
@@ -1733,7 +1745,7 @@
                     ]
                 },
                 {
-                    "id": "jpp4_es",
+                    "id": "jpp4_es_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\nSobrevive al Internet, Monstruo Busca Monstruo y Garabato Cívico cuentan con doblaje latino.",
                     "description": "",
@@ -2279,7 +2291,7 @@
                     ]
                 },
                 {
-                    "id": "jpp5_es",
+                    "id": "jpp5_es_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\nZeeple Dome y Patentes Dementes cuentan con doblaje latino.",
                     "description": "",
@@ -2370,7 +2382,7 @@
                     ]
                 },
                 {
-                    "id": "jpp5_es",
+                    "id": "jpp5_es_mac_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\nZeeple Dome y Patentes Dementes cuentan con doblaje latino.",
                     "description": "",
@@ -2871,7 +2883,7 @@
                     ]
                 },
                 {
-                    "id": "jpp6_es",
+                    "id": "jpp6_es_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\nPulsa el Botón cuenta con doblaje latino.",
                     "description": "",
@@ -3377,7 +3389,7 @@
                     ]
                 },
                 {
-                    "id": "jpp7_es",
+                    "id": "jpp7_es_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\nLa Familia es un Infierno y Talking Points cuentan con doblaje latino.",
                     "description": "",
@@ -3468,7 +3480,7 @@
                     ]
                 },
                 {
-                    "id": "jpp7_es",
+                    "id": "jpp7_es_mac_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.\nLa Familia es un Infierno y Talking Points cuentan con doblaje latino.",
                     "description": "",
@@ -3637,7 +3649,7 @@
             
         },
         {
-            "id":"cursedpoints_es",
+            "id":"cursedpoints_es_egs",
             "name":"Cursed Points",
             "small_description":"¡Mod traducido al español!",
             "description":"",
@@ -3669,7 +3681,7 @@
         
     },
     {
-        "id":"cursedpoints_es",
+        "id":"cursedpoints_es_mac_egs",
         "name":"Cursed Points",
         "small_description":"¡Mod traducido al español!",
         "description":"",
@@ -4547,7 +4559,7 @@
                     ]
                 },
                 {
-                    "id": "jpp8_es",
+                    "id": "jpp8_es_egs",
                     "name": "Traducción al Español Latino",
                     "small_description": "Pack 100% traducido.",
                     "description": "",
@@ -5053,7 +5065,7 @@
                     ]
                 },
                 {
-                    "id": "jpp9_es",
+                    "id": "jpp9_es_egs",
                     "name": "Cambio de dominios a Jackbox.lol",
                     "small_description": "Pack localizado oficialmente en latino y castellano.\nEste parche cambia los dominios a Jackbox.lol y realiza algunas correcciones menores.",
                     "description": "",

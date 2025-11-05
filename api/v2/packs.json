@@ -6601,7 +6601,7 @@
                 {
                     "id": "jpp11_es",
                     "name": "Traducción al Español Latino",
-                    "small_description": "Hear Say, Cookie Haus y Suspectives se encuentran traducidos.\nDoominate y Legends of Trivia están en inglés.",
+                    "small_description": "Legends of Trivia no está traducido.\nLos demás juegos están 100% traducidos.",
                     "description": "",
                     "patch_path": "https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-11-Spanish/releases/latest/download/JPP11-ES.zip",
                     "configuration": {
@@ -6621,6 +6621,21 @@
                     ],
                     "components": [
                         {
+                            "id": "doominate_patch",
+                            "linked_game": "doominate",
+                            "name": "Doominate",
+                            "description": "",
+                            "authors": "Hanzel Translations (traducción principal)\n* Akira896 (traducción asistente)\n* Fixed Fun (imágenes)",
+                            "small_description": "¡Juego traducido al español!",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
                             "id": "hearsay_patch",
                             "linked_game": "hearsay",
                             "name": "Hear Say",
@@ -6629,8 +6644,8 @@
                             "small_description": "¡Juego traducido al español!",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
                                 "website": true,
                                 "audios": false
                             }
@@ -6644,7 +6659,7 @@
                             "small_description": "¡Juego traducido al español!",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
+                                "game_assets": true,
                                 "game_subtitles": true,
                                 "website": false,
                                 "audios": false
@@ -6659,7 +6674,7 @@
                             "small_description": "¡Juego traducido al español!",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
+                                "game_assets": true,
                                 "game_subtitles": true,
                                 "website": true,
                                 "audios": false
@@ -6693,7 +6708,7 @@
                         "subtitles": true,
                         "length": "15 - 20 minutos",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Arruina lo lindo",
                         "small_description": "Arruina lo lindo",
                         "description": "Toma una situación perfectamente encantadora y destrúyela en este juego de broma cara a cara en el que se siente tan bien ser tan malo.",
@@ -6955,7 +6970,7 @@
                 {
                     "id": "jpp11_es_ms",
                     "name": "Traducción al Español Latino",
-                    "small_description": "Hear Say, Cookie Haus y Suspectives se encuentran traducidos.\nDoominate y Legends of Trivia están en inglés.",
+                    "small_description": "Legends of Trivia no está traducido.\nLos demás juegos están 100% traducidos.",
                     "description": "",
                     "patch_path": "https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-11-Spanish/releases/latest/download/JPP11-ES-MS.zip",
                     "configuration": {
@@ -6975,6 +6990,21 @@
                     ],
                     "components": [
                         {
+                            "id": "doominate_patch_ms",
+                            "linked_game": "doominate_ms",
+                            "name": "Doominate",
+                            "description": "",
+                            "authors": "Hanzel Translations (traducción principal)\n* Akira896 (traducción asistente)\n* Fixed Fun (imágenes)",
+                            "small_description": "¡Juego traducido al español!",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
                             "id": "hearsay_patch_ms",
                             "linked_game": "hearsay_ms",
                             "name": "Hear Say",
@@ -6983,8 +7013,8 @@
                             "small_description": "¡Juego traducido al español!",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
                                 "website": true,
                                 "audios": false
                             }
@@ -6998,7 +7028,7 @@
                             "small_description": "¡Juego traducido al español!",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
+                                "game_assets": true,
                                 "game_subtitles": true,
                                 "website": false,
                                 "audios": false
@@ -7013,7 +7043,7 @@
                             "small_description": "¡Juego traducido al español!",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
+                                "game_assets": true,
                                 "game_subtitles": true,
                                 "website": true,
                                 "audios": false
@@ -7047,7 +7077,7 @@
                         "subtitles": true,
                         "length": "15 - 20 minutos",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Arruina lo lindo",
                         "small_description": "Arruina lo lindo",
                         "description": "Toma una situación perfectamente encantadora y destrúyela en este juego de broma cara a cara en el que se siente tan bien ser tan malo.",
